@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> 𓆩𝙆𝙖𝙩𝙩𝙖𝙧 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪
 </b><br>
 </p>
 <p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
@@ -17,7 +17,7 @@
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/Kattarassistant72"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 
